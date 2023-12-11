@@ -1,4 +1,4 @@
-<h1>Mikon - Portfolio Template</h1>
+<h1>Mikon - Bootstrap Portfolio Template</h1>
 
 <h3>HTML, CSS, Sass, Gulp, jQuery, Boostrap</h3>
 
