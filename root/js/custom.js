@@ -1,7 +1,7 @@
 (function($) {
     "use strict";
     var WEA = {};
-    var plugin_track = 'assets/vendor/';
+    var plugin_track = 'root/vendor/';
     $.fn.exists = function() {
         return this.length > 0;
     };
