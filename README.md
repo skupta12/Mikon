@@ -1,4 +1,4 @@
-<h1>Mikon - HTML Portfolio Template</h1>
+<h1>Mikon - HTML Boostrap Portfolio Template</h1>
 <h3>HTML, CSS, Boostrap, Javascript, jQuery</h3>
 
 Live Demo: [click](https://skupta12.github.io/Mikon)
