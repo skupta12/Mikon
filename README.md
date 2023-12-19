@@ -1,5 +1,5 @@
 # Mikon - HTML Portfolio Template
-<h3>Programming languages and tools: HTML, CSS, Boostrap, Javascript, jQuery, gulp</h3>
+<h3>Programming languages and tools: HTML, CSS, Bootstrap, Javascript, jQuery, gulp</h3>
 
 </br>
 
